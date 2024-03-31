@@ -1,6 +1,6 @@
 # Rust-Neural-Network
 **Member:** Hein Htut (hhtut2)
-**Project Description:** I hope to implement a classical neural network, of user-defined size, from scratch in Rust. I've always been interested in machine learning and since neural networks are at the core of ML, I decided to focus on this topic.
+**Project Description:** I hope to implement a classical neural network, of user-defined size, from scratch in Rust. I've always been interested in machine learning and since neural networks are at the core of ML, I decided to focus on this topic. I am looking forward to seeing how membership will integrate with data storage and manipulation! If possible, I think it would it would also be interesting to implement parallelism in running different chunks of data through multiple neural networks and combining them later but I doubt I will reach this far in the project.
 
 ## Technical Overview
 The project can be sorted into four main steps: preprocessing the dataset, creating/initializing the neural network structure, implementing forward propagation, and finally implementing back propagation.
