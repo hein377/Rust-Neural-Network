@@ -1,0 +1,3 @@
+- git clone this repository
+- download the MNIST training dataset on Kaggle (https://www.kaggle.com/datasets/oddrationale/mnist-in-csv/data)
+- cargo run --release (USE --release OTHERWISE IT'LL BE VERY SLOW)
